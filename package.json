@@ -3,6 +3,7 @@
 	"author": "Nide17",
 	"description": "Learning node on freecodecamp",
 	"keywords": ["freecodecamp", "Node", "Express", "MongoDB"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
