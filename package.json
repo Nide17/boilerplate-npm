@@ -2,8 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nide17",
 	"description": "Learning node on freecodecamp",
-	"keywords": ["freecodecamp", "Node", "Express", "MongoDB"],
-	"license": "MIT",
+	"keywords": [
+		"freecodecamp",
+		"Node",
+		"Express",
+		"MongoDB"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,5 +18,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"license": "MIT",
+	"version": "1.2.0"
 }
