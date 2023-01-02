@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nide17",
 	"description": "Learning node on freecodecamp",
-	"keywords": ["Node", "Express", "MongoDB"],
+	"keywords": ["freecodecamp", "Node", "Express", "MongoDB"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
