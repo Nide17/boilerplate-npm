@@ -15,8 +15,8 @@
 	"author": "Nide17",
 	"license": "MIT",
 	"dependencies": {
-		"@freecodecamp/example": "1.1.0",
-		"express": "4.14.0"
+		"@freecodecamp/example": "^1.1.0",
+		"express": "^4.14.0"
 	},
 	"repository": {
 		"type": "git",
